@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Univesity.Solution/UniversityProject/bin/Debug/netcoreapp1.1/UniversityProgect.deps.json
+/Users/Guest/Desktop/Univesity.Solution/UniversityProject/bin/Debug/netcoreapp1.1/UniversityProgect.runtimeconfig.json
+/Users/Guest/Desktop/Univesity.Solution/UniversityProject/bin/Debug/netcoreapp1.1/UniversityProgect.runtimeconfig.dev.json
+/Users/Guest/Desktop/Univesity.Solution/UniversityProject/obj/Debug/netcoreapp1.1/UniversityProgect.AssemblyInfo.cs
+/Users/Guest/Desktop/Univesity.Solution/UniversityProject/bin/Debug/netcoreapp1.1/UniversityProgect.dll
+/Users/Guest/Desktop/Univesity.Solution/UniversityProject/bin/Debug/netcoreapp1.1/UniversityProgect.pdb
+/Users/Guest/Desktop/Univesity.Solution/UniversityProject/obj/Debug/netcoreapp1.1/UniversityProgect.dll
+/Users/Guest/Desktop/Univesity.Solution/UniversityProject/obj/Debug/netcoreapp1.1/UniversityProgect.pdb

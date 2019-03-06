@@ -1,0 +1,13 @@
+@using UniversityProject.Models;
+
+<h1>Students: </h2>
+
+<ul>
+  @foreach (Student student in Model)
+  {
+    <li>@student.GetName(), @student.GetEnrollmentDate().ToString("yyyy-MM-dd")</li>
+  }
+</ul>
+
+
+<h3><a href ="students/new">Add a student--->></h3>
